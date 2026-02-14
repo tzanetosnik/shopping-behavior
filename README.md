@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis (Portfolio Project)
+# Customer Shopping Behavior Analysis 
 
 This project is part of my **data science / machine learning portfolio** and demonstrates my ability to perform **exploratory data analysis**, build a **classification model**, and extract **business insights** from customer data.
 
